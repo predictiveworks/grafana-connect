@@ -1,2 +1,2 @@
 # grafana-connect
-Grafana Connect makes CDAPA datasets available as Grafana data sources
+Grafana Connect makes [Google CDAP](https://cdap.io) datasets available as [Grafana](https://grafana.org) data sources
